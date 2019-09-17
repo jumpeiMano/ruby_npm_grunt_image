@@ -1,0 +1,1 @@
+# ruby_npm_grunt_image
